@@ -49,7 +49,6 @@ BugReports: https://github.com/ge11232002/TFBSTools/issues
 Type: Package
 biocViews: MotifAnnotation, GeneRegulation, MotifDiscovery, Transcription, 
            Alignment
-NeedsCompilation: yes
 LazyData: yes
 Collate: AllGenerics.r AllClasses.r show-methods.r util-methods.r
          XMatrix-methods.r XMatrixList-methods.r
